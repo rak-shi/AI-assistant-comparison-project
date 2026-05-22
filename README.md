@@ -292,6 +292,3 @@ Rakshitha
 
 ---
 
-# 📄 License
-
-This project is for educational and assessment purposes.
